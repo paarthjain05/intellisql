@@ -2,6 +2,7 @@ import streamlit as st
 import os
 import sqlite3
 import google.generativeai as genai
+import dotenv
 
 api_key = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=api_key)
