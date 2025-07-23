@@ -172,7 +172,7 @@ Enhanced Prompt → Gemini Pro → SQL Generation → Execution → Results
 ## 🌟 Advanced Analytics
 
 * **Trend Analysis**: "Compare sales performance across quarters by product category"  
-* **Customer Insights**: "Identify high-value customers with declining order frequency"  
+* **Customer Insights**: "Find valuable customers whose order frequency is decreasing"  
 * **Inventory Optimization**: "Products with stock levels below reorder threshold by warehouse"  
 * **Ad-Hoc Exploration**: "Correlation between order value and customer location"  
 
